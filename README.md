@@ -1,5 +1,5 @@
 # Données ouvertes du Tchad - Open source data
-![opendata-chadainetwork](https://github.com/user-attachments/assets/fc97851a-8db5-414d-8b51-1348cc03d176)
+![opendata-chadainetwork org](https://github.com/user-attachments/assets/34b6c268-ef43-411f-9e18-a42c4243de2f)
 
 Bienvenue dans ce référentiel communautaire qui abrite une vaste collection de données ouvertes couvrant les divers secteurs du Tchad. Que ce soit pour l'agriculture, la santé, l'éducation, l'énergie ou d'autres domaines, vous trouverez ici des ressources pour la recherche et l'élaboration de solutions innovantes face aux défis locaux.
 
