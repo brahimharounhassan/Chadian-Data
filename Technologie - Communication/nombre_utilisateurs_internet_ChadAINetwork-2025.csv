@@ -1,0 +1,41 @@
+#### VARIABLES ####
+# Pays : Tchad
+# Code : Code pays ISO3 (TCD pour le Tchad)
+# Année : (format YYYY)
+# nbre_ut_internet : nombre d'utilisateurs de l'internet
+# Source : Banque Mondiale
+# Licence : CC-BY-4.0, @chadainetwork
+# URL : https://github.com/Chad-AI-Network/Chadain-Data
+# Date de téléchargement : 10-01-2025
+
+Pays,Code,Année,nbre_ut_internet
+Tchad,TCD,1990,0
+Tchad,TCD,1991,0
+Tchad,TCD,1992,0
+Tchad,TCD,1993,0
+Tchad,TCD,1994,0
+Tchad,TCD,1995,0
+Tchad,TCD,1997,49
+Tchad,TCD,1998,329
+Tchad,TCD,1999,984
+Tchad,TCD,2000,2949
+Tchad,TCD,2001,3922
+Tchad,TCD,2002,14678
+Tchad,TCD,2003,29457
+Tchad,TCD,2004,34697
+Tchad,TCD,2005,39946
+Tchad,TCD,2006,60229
+Tchad,TCD,2007,90846
+Tchad,TCD,2008,132074
+Tchad,TCD,2009,172442
+Tchad,TCD,2010,202210
+Tchad,TCD,2011,234037
+Tchad,TCD,2012,267853
+Tchad,TCD,2013,330419
+Tchad,TCD,2014,397217
+Tchad,TCD,2015,494910
+Tchad,TCD,2016,846370
+Tchad,TCD,2017,1116356
+Tchad,TCD,2018,1248337
+Tchad,TCD,2019,1580433
+Tchad,TCD,2020,1731049
