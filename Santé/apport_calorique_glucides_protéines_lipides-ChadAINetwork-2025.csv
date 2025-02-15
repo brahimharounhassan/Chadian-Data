@@ -8,7 +8,8 @@
 # cal_carb : Apports caloriques quotidiens issus des glucides
 
 # Source : FAOSTAT – Food Balance Sheets, 2025
-# CC-BY-4.0 = @chadainetwork
+# Licence : CC-BY-4.0 @chadainetwork
+# Lien : https://github.com/Chad-AI-Network/Chadian-Data
 
 Pays,Code,Année,cal_animal,cal_vegetal,cal_fat,cal_carb
 Tchad,TCD,1961,44.849354,239.91032,506.25046,1446.5006

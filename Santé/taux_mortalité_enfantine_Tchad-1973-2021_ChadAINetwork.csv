@@ -2,7 +2,8 @@
 # Variables : Pays (nom), Code (ISO3), Année, Taux
 # Source : OMS, 2022
 # Dernière mise à jour : 2023-09-01
-# CC-BY-4.0 = @chadainetwork
+# Licence: CC-BY-4.0  @chadainetwork
+# Lien : https://github.com/Chad-AI-Network/Chadian-Data
 
 Pays,Code,Année,Taux (décès pour 100 naissances vivantes)
 Tchad,TCD,1973,25.136974

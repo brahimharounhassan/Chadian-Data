@@ -7,8 +7,8 @@
 # population : Population du pays pour l’année correspondante
 
 # Source : FAOSTAT (FAO) – Food Balance Sheets, 2025
-# CC-BY-4.0 : @chadainetwork
-# Lien : https://github.com/Chad-AI-Network/Chadain-Data
+# Licence : CC-BY-4.0 @chadainetwork
+# Lien : https://github.com/Chad-AI-Network/Chadian-Data
 
 Pays,Code,Année,fruit_consumption_kgpc,"gdp_per_capita_2017PPP",population
 Tchad,TCD,1961,42.97249819,,3111955,
