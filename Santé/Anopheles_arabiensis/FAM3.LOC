@@ -1,0 +1,99 @@
+; Wed, 12 Oct 2011, 17:06
+
+; original file:          fam3.txt
+; no sorting
+; no individuals removed
+
+
+name = fam3
+popt = CP
+nloc = 29
+nind = 48
+
+803                  <abxab> {00}
+ bb -- aa ab ab  ab bb bb bb --  ab -- ab bb ab  ab bb bb bb --  ab ab ab bb aa
+ -- ab ab ab ab  ab ab -- -- --  aa aa ab ab ab  aa -- ab ab aa  ab aa ab
+199                  <abxab> {00}
+ bb bb -- ab ab  ab bb -- bb bb  ab ab ab -- ab  ab bb ab ab bb  ab ab ab bb ab
+ ab ab ab bb ab  ab ab ab aa ab  aa aa ab ab ab  aa ab ab ab aa  aa aa ab
+24                   <abxab> {00}
+ bb bb -- ab ab  ab bb bb bb bb  ab ab ab ab ab  ab bb ab ab bb  ab ab ab bb bb
+ ab ab ab bb ab  ab ab ab aa ab  aa aa ab ab ab  aa ab ab ab aa  aa aa ab
+757                  <abxab> {00}
+ bb -- aa ab ab  ab bb bb bb --  ab -- ab bb ab  ab -- bb bb --  ab ab ab bb aa
+ -- ab aa bb ab  ab ab bb -- bb  aa aa ab ab ab  aa -- ab ab aa  aa aa ab
+799                  <abxaa> {0-}
+ aa -- ab ab ab  ab aa aa aa --  ab -- ab aa ab  aa -- -- -- --  ab ab ab aa ab
+ -- ab ab aa ab  ab aa -- -- ab  ab ab ab ab ab  ab -- ab ab aa  -- -- aa
+P3_520               <aaxab> {-0}
+ aa aa -- aa ab  ab ab ab ab aa  -- aa aa aa ab  aa aa aa aa aa  aa aa aa aa ab
+ aa ab ab ab ab  ab aa ab aa aa  aa ab ab ab aa  aa aa aa ab ab  ab ab ab
+590                  <abxab> {00}
+ bb bb aa ab ab  ab bb bb bb bb  ab ab ab bb ab  ab bb ab bb bb  ab ab ab bb aa
+ ab aa ab bb ab  ab ab bb aa ab  ab aa ab ab ab  aa ab ab ab aa  ab aa ab
+117_2                <aaxab> {-0}
+ -- ab aa aa aa  ab ab ab aa ab  aa ab ab ab --  -- aa ab ab ab  aa aa aa ab aa
+ aa aa aa aa aa  ab -- aa aa aa  aa aa aa aa aa  aa aa ab aa ab  aa ab ab
+786                  <abxab> {00}
+ -- ab ab ab ab  bb ab ab aa --  -- ab ab bb ab  aa aa ab aa ab  bb bb -- ab ab
+ bb -- ab ab --  ab aa aa aa --  ab ab ab ab aa  -- ab bb ab ab  bb bb ab
+787                  <abxab> {00}
+ bb ab -- b- b-  bb ab ab bb ab  ab ab ab ab ab  ab ab ab bb bb  ab aa ab ab --
+ ab ab ab ab ab  bb ab bb aa bb  ab ab ab ab ab  ab ab ab ab ab  -- b- --
+772                  <aaxab> {-0}
+ ab ab aa aa aa  ab ab ab ab ab  aa ab ab ab aa  aa aa aa ab ab  aa aa aa aa aa
+ aa aa aa aa aa  ab ab aa aa aa  aa aa aa aa aa  aa aa ab aa ab  aa aa --
+603                  <aaxab> {-0}
+ ab -- aa aa aa  ab ab ab ab --  aa -- ab ab aa  aa -- ab -- --  -- aa aa ab aa
+ -- aa aa aa aa  ab ab -- aa --  aa aa aa aa aa  aa ab ab aa ab  ab -- aa
+675_2                <abxab> {00}
+ -- -- -- aa aa  bb ab ab ab ab  aa ab ab ab aa  aa aa aa -- ab  aa aa aa ab --
+ aa -- aa aa aa  ab -- aa aa aa  -- aa aa aa aa  aa aa aa aa ab  aa aa --
+776                  <abxab> {00}
+ aa ab -- ab ab  ab ab ab ab aa  aa aa bb -- aa  bb aa ab ab aa  ab ab ab aa aa
+ ab -- ab ab ab  ab ab ab aa aa  aa bb -- aa bb  aa ab ab aa ab  ab ab aa
+59_1                 <abxab> {00}
+ aa bb -- ab ab  ab ab ab ab aa  aa aa bb aa aa  bb aa ab ab aa  ab ab ab aa ab
+ bb -- aa ab bb  aa ab ab ab aa  ab aa aa aa aa  ab aa bb bb aa  aa ab aa
+812_2                <abxab> {00}
+ bb ab -- ab ab  ab aa ab ab ab  bb ab aa ab ab  aa bb aa ab ab  aa ab aa bb ab
+ ab ab ab aa aa  ab ab ab ab bb  bb ab ab ab bb  ab bb aa aa ab  bb ab bb
+249_3                <abxab> {00}
+ aa ab -- ab ab  ab bb ab ab ab  aa ab bb ab ab  bb -- bb -- --  -- ab ab aa --
+ -- -- ab ab bb  ab ab -- -- aa  aa ab ab -- ab  -- aa ab -- ab  ab -- --
+30C1_1               <abxab> {00}
+ -- ab -- ab ab  ab ab ab ab aa  aa aa -- aa aa  bb aa ab ab aa  ab ab ab aa aa
+ ab ab aa ab --  -- ab ab ab --  aa aa aa -- ab  ab aa ab bb ab  ab ab aa
+6M19                 <abxab> {00}
+ aa ab -- ab bb  ab ab ab ab ab  aa aa bb aa aa  bb -- ab ab --  ab ab ab aa aa
+ -- -- aa ab bb  -- ab ab -- aa  aa aa ab aa ab  ab aa ab -- ab  aa aa aa
+119_1                <abxab> {00}
+ -- ab bb ab ab  ab ab -- ab ab  aa aa -- aa aa  bb aa ab ab aa  ab ab ab aa --
+ ab ab aa ab --  -- ab ab ab --  aa aa ab -- ab  ab aa ab bb ab  ab ab aa
+Chymotrypsin         <aaxab> {-0}
+ aa aa aa aa aa  aa ab ab ab aa  aa aa aa aa aa  aa aa aa aa aa  ab aa aa aa ab
+ aa aa aa aa aa  ab aa aa aa aa  aa ab aa aa aa  aa aa aa aa aa  aa aa aa
+811_2                <aaxab> {-0}
+ ab ab aa aa ab  aa ab ab ab --  ab aa ab ab aa  ab aa ab ab ab  ab aa ab aa ab
+ ab ab aa ab ab  aa ab aa ab ab  -- ab ab ab ab  -- -- aa ab --  ab ab aa
+46C3_2               <abxab> {00}
+ ab -- -- ab aa  ab bb ab bb aa  ab ab -- ab ab  ab ab aa aa ab  ab ab aa aa --
+ ab ab ab aa ab  ab ab aa ab aa  ab -- aa -- aa  aa ab ab bb --  -- -- --
+46C2_1               <abxab> {00}
+ ab -- aa ab aa  ab bb ab bb --  ab -- ab ab ab  ab -- -- -- --  -- ab aa aa aa
+ -- ab aa aa ab  ab ab -- -- --  ab ab aa ab aa  aa -- ab bb aa  aa bb aa
+53_2                 <aaxab> {-0}
+ aa ab aa ab ab  aa ab ab aa --  ab ab ab aa ab  aa aa -- aa aa  aa aa aa ab aa
+ -- aa aa ab ab  ab aa aa aa aa  -- ab aa ab aa  -- -- ab ab --  aa ab aa
+80                   <abxab> {00}
+ -- -- -- ab ab  ab ab ab bb --  bb -- bb ab ab  -- aa -- -- --  -- -- -- ab bb
+ -- aa bb bb bb  bb -- -- -- bb  b- -- aa bb ab  -- -- ab ab --  ab bb --
+H7_2                 <aaxab> {-0}
+ aa ab ab ab ab  ab ab ab aa ab  ab ab ab ab ab  aa aa ab aa aa  ab ab ab ab aa
+ ab aa aa ab ab  ab aa aa aa aa  ab ab aa ab aa  aa ab ab aa ab  aa aa aa
+Cyp4H24              <aaxab> {-0}
+ aa ab ab ab ab  ab ab ab ab ab  ab ab ab ab ab  aa aa ab ab ab  aa aa aa ab aa
+ aa ab ab ab ab  aa aa aa ab ab  ab ab aa ab aa  aa ab ab ab ab  aa aa aa
+678_2                <aaxab> {-0}
+ aa ab -- ab ab  ab ab ab ab ab  ab ab aa ab ab  aa aa ab ab aa  aa ab aa ab aa
+ aa ab ab ab ab  aa aa ab ab ab  ab aa aa ab aa  aa ab aa ab ab  aa aa aa

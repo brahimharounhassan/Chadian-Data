@@ -1,0 +1,108 @@
+; Wed, 2 Nov 2011, 15:40
+
+; original file:          fam2.txt
+; no sorting
+; no individuals removed
+
+
+name = fam2cp
+popt = CP
+nloc = 32
+nind = 48
+
+803                  <abxaa> {0-}
+ ab -- -- aa --  ab aa ab aa --  -- aa -- aa aa  -- aa -- aa aa  aa ab aa aa aa
+ -- aa aa aa ab  aa aa aa ab --  ab ab -- aa aa  -- ab -- ab aa  aa ab aa
+199                  <aaxab> {-0}
+ aa aa aa ab ab  aa aa aa ab ab  aa aa aa aa ab  aa aa ab aa aa  aa aa aa aa ab
+ ab ab ab ab ab  ab aa ab aa aa  aa aa ab ab ab  aa aa aa aa aa  ab ab aa
+24                   <aaxab> {-0}
+ aa aa aa ab ab  aa aa aa ab ab  aa aa aa aa ab  aa aa ab aa aa  aa aa aa aa ab
+ ab ab ab ab ab  ab aa ab aa aa  aa aa ab ab ab  aa aa aa aa aa  ab ab aa
+757                  <abxaa> {0-}
+ ab -- -- aa --  ab ab ab aa --  ab aa -- ab ab  ab aa -- aa ab  aa ab ab ab aa
+ -- aa aa aa ab  ab aa aa ab --  ab ab -- aa aa  aa ab -- aa aa  aa ab aa
+799                  <abxaa> {0-}
+ ab -- ab aa aa  ab ab ab aa --  ab aa aa ab aa  ab -- aa aa ab  aa ab ab ab aa
+ -- aa aa aa ab  ab aa aa -- ab  ab ab ab aa aa  ab -- -- aa aa  aa ab aa
+2R_si_5              <abxaa> {0-}
+ ab aa aa aa aa  ab ab ab aa aa  aa aa aa aa aa  aa aa aa ab ab  aa ab ab ab aa
+ ab aa aa aa ab  ab aa aa ab ab  ab ab ab aa aa  ab ab ab aa aa  aa ab aa
+P3_787               <abxaa> {0-}
+ aa ab aa ab aa  ab ab ab aa aa  ab aa ab ab aa  ab aa aa aa aa  aa aa aa ab aa
+ aa aa aa ab aa  -- aa aa aa aa  ab aa ab aa ab  ab ab aa aa aa  ab aa aa
+P3_520_2             <abxaa> {0-}
+ ab aa ab aa aa  ab ab ab aa aa  ab aa ab ab aa  ab aa aa ab ab  aa ab ab ab ab
+ ab ab ab ab aa  ab aa aa ab aa  ab ab ab ab aa  ab ab ab ab aa  aa ab aa
+590_2                <abxaa> {0-}
+ ab aa ab ab --  ab aa ab ab ab  ab ab -- aa ab  ab ab ab aa ab  aa aa ab ab aa
+ aa ab aa aa aa  aa aa ab aa aa  ab aa aa aa ab  aa aa aa ab ab  ab aa ab
+Cyp304C1             <abxaa> {0-}
+ ab aa ab ab ab  ab aa ab ab ab  ab ab aa aa ab  aa ab ab aa ab  aa aa ab ab aa
+ aa ab aa aa ab  aa aa ab aa aa  ab aa aa aa ab  aa aa aa ab ab  ab aa ab
+720                  <aaxab> {-0}
+ ab aa ab aa aa  ab ab ab aa aa  ab aa ab ab aa  aa aa aa ab ab  aa ab ab ab aa
+ ab aa ab ab ab  ab aa aa ab ab  ab ab ab ab aa  ab ab ab aa aa  aa ab aa
+770_1                <aaxab> {-0}
+ aa aa -- aa ab  aa aa aa ab ab  aa ab -- aa ab  -- -- ab -- aa  -- aa aa aa --
+ ab -- ab -- aa  aa aa ab aa --  aa -- ab ab --  aa aa aa aa aa  ab ab --
+786                  <abxaa> {0-}
+ ab aa aa aa aa  ab ab ab aa aa  ab aa ab ab aa  ab aa ab ab ab  ab ab ab ab aa
+ ab ab ab ab aa  ab aa aa ab ab  ab -- ab aa aa  ab ab aa aa aa  ab ab aa
+ex27                 <abxaa> {0-}
+ ab aa ab aa aa  aa ab ab aa aa  ab aa ab ab ab  aa aa aa ab ab  aa ab ab ab aa
+ aa ab ab ab ab  ab aa aa ab ab  ab ab ab ab aa  ab ab ab aa aa  aa ab ab
+787                  <abxab> {00}
+ aa ab ab ab bb  bb ab ab ab --  -- ab aa -- bb  bb ab ab ab ab  ab bb bb aa a-
+ ab -- aa a- ab  ab bb ab bb aa  ab ab aa aa bb  ab bb -- bb --  bb ab ab
+603_1                <abxab> {00}
+ aa -- aa ab ab  ab ab aa ab --  aa ab ab ab bb  bb -- ab ab aa  bb ab aa aa ab
+ -- ab aa ab ab  ab bb ab -- ab  aa ab ab ab ab  ab -- -- ab ab  ab ab ab
+675                  <abxaa> {0-}
+ ab -- aa aa aa  ab aa ab aa --  ab ab ab aa aa  aa -- aa aa ab  ab aa aa ab aa
+ -- aa aa aa ab  ab ab ab -- aa  aa aa ab aa aa  ab -- -- aa ab  aa ab ab
+776_1                <abxab> {00}
+ ab aa ab ab ab  ab ab -- ab bb  ab aa ab bb bb  -- ab bb ab bb  ab bb ab ab ab
+ ab ab bb ab ab  ab bb ab ab aa  ab ab bb ab --  ab aa ab ab ab  bb aa bb
+59_1                 <aaxab> {-0}
+ aa -- -- aa --  ab aa aa ab --  -- aa -- aa ab  ab ab -- ab ab  aa ab ab ab ab
+ -- aa ab ab ab  ab aa ab ab --  aa aa -- ab ab  -- ab -- aa ab  -- aa aa
+812_1                <abxaa> {0-}
+ ab ab ab ab aa  aa ab ab aa ab  aa aa aa ab aa  aa aa ab aa aa  ab ab aa aa aa
+ aa ab aa aa aa  aa ab aa ab aa  ab -- aa -- ab  aa aa ab aa aa  aa aa ab
+249_1                <aaxab> {-0}
+ aa aa aa -- ab  ab aa aa ab ab  -- aa ab aa ab  -- ab ab ab ab  aa aa ab ab ab
+ ab aa ab ab ab  ab aa ab ab aa  aa aa ab -- aa  ab aa aa ab --  -- aa aa
+30C1_2               <abxaa> {0-}
+ ab ab ab ab ab  ab ab ab ab aa  ab ab ab aa aa  ab ab aa ab aa  ab ab ab ab --
+ ab ab aa ab ab  ab aa ab aa --  ab ab aa ab ab  ab ab ab aa ab  aa -- aa
+6M19                 <abxab> {00}
+ ab ab ab ab ab  ab ab ab ab ab  -- ab -- bb bb  -- -- bb -- bb  ab ab ab ab ab
+ ab ab bb ab ab  ab bb ab bb aa  ab ab ab -- ab  aa aa ab bb --  bb aa bb
+119_1                <abxab> {00}
+ ab ab ab ab ab  ab ab ab ab ab  ab ab bb bb bb  ab ab bb ab bb  ab ab ab ab --
+ ab ab ab ab ab  ab bb ab bb --  ab ab ab ab ab  aa aa ab bb ab  bb -- bb
+811_2                <abxaa> {0-}
+ ab -- ab ab --  aa ab ab ab --  -- ab -- ab ab  ab ab -- aa aa  ab ab ab ab ab
+ -- ab aa aa ab  ab ab ab ab --  aa ab -- ab ab  -- ab -- ab aa  aa ab ab
+577                  <abxaa> {0-}
+ ab ab aa ab ab  aa ab ab aa ab  -- ab aa ab ab  ab -- aa -- aa  ab aa ab ab ab
+ aa aa aa aa ab  ab ab ab aa ab  aa ab aa -- aa  aa ab ab ab aa  ab ab aa
+46C3_1               <abxab> {00}
+ ab ab ab ab ab  ab -- ab bb --  -- ab -- -- ab  -- ab bb aa ab  -- bb ab aa --
+ bb -- ab -- ab  ab bb aa ab ab  ab -- -- bb ab  -- -- -- bb --  -- ab bb
+46C2                 <abxaa> {0-}
+ aa -- aa aa --  aa aa aa aa --  -- aa -- aa aa  ab aa -- ab aa  aa aa ab ab aa
+ -- aa aa aa aa  ab aa aa aa --  aa aa -- aa ab  -- aa -- aa aa  aa ab aa
+53_3                 <abxab> {00}
+ ab ab -- ab bb  ab ab bb ab ab  -- ab ab ab bb  aa ab aa aa ab  aa ab aa ab aa
+ ab -- ab bb ab  ab bb ab ab aa  aa ab ab ab aa  ab aa -- aa aa  ab ab ab
+H7_1                 <aaxab> {-0}
+ aa aa aa ab aa  ab aa aa aa ab  ab aa ab aa aa  ab aa ab aa aa  aa aa ab ab ab
+ ab ab aa aa aa  ab aa ab ab ab  ab aa ab aa ab  ab ab aa ab ab  aa aa ab
+Cyp4H24_1            <aaxab> {-0}
+ ab ab ab ab aa  ab ab ab ab ab  ab ab ab ab aa  ab ab aa ab aa  aa ab aa ab ab
+ aa aa aa ab ab  ab ab aa ab aa  ab aa ab aa ab  ab ab ab ab ab  ab ab aa
+678_2                <aaxab> {-0}
+ ab ab ab ab aa  ab aa ab ab ab  ab ab aa ab aa  aa ab aa ab aa  aa ab ab aa ab
+ aa aa aa ab ab  ab aa aa aa aa  ab -- ab aa ab  -- aa ab ab ab  ab ab aa

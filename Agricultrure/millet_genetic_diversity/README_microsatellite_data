@@ -1,0 +1,8 @@
+The file Microsatellite_data.txt contains microsatellite genotypes for the individuals of the study.
+
+Columns
+Indiv_ID: unique individual identifier.
+Pop_ID: unique population identifier.
+Longitude: geographical coordinates in decimal degrees.
+Latitude: geographical coordinates in decimal degrees.
+ Missing data are encoded by "-9". 
